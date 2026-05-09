@@ -1,0 +1,11 @@
+{
+  "mode": "webhook",
+  "webhook": "https://open.feishu.cn/open-apis/bot/v2/hook/0b6c71bc-72d6-45a4-aebe-8d2a1884d18e",
+  "smtp": {
+    "server": "smtp.exmail.qq.com",
+    "ssl": true,
+    "port": "465",
+    "username": "admin@gxgyrd.cn",
+    "password": "VJN4Zzcoq3g2n47K"
+  }
+}
